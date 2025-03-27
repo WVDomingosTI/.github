@@ -1,64 +1,67 @@
-<h1 align="left">WVDomingos Consultoria em TI</h1>
+# WVDomingos Consultoria em TI
 
-###
+Bem-vindo ao repositório principal da WVDomingos Consultoria em TI. Aqui você encontrará informações sobre nossa empresa, projetos e serviços.
 
-<h2 align="left">Sobre mim:</h2>
+## 🚀 Sobre Nós
 
-###
+A WVDomingos Consultoria em TI é especializada em soluções de banco de dados, business intelligence e desenvolvimento em Python. Nossa missão é fornecer serviços de alta qualidade que ajudem nossos clientes a alcançar seus objetivos de negócios através da tecnologia.
 
-<p align="left">🎓 Sou formado em Bacharel em Sistemas de Informação e Técnico em Informática pelo IFES Campus Cachoeiro de Itapemirim.<br>🌐 Tenho experiência como DBA SQL Server, Power BI e linguagem de programação Python.<br>🚀 Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.</p>
+## 🛠️ Nossos Serviços
 
-###
+- **Administração de Banco de Dados SQL Server**
+- **Desenvolvimento e Implementação de Soluções em Power BI**
+- **Desenvolvimento de Aplicações em Python**
+- **Consultoria em Infraestrutura de TI**
+- **Treinamento e Capacitação**
 
-<h2 align="left">Estatísticas:</h2>
+## 📂 Estrutura do Repositório
 
-###
+Este repositório serve como ponto central para nossa organização. Aqui você encontrará:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wvdomingos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1&custom_title=Minhas%20Estat%C3%ADsticas" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wvdomingos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+- Documentação de projetos
+- Exemplos de código
+- Recursos úteis
+- Links para projetos específicos
 
-###
+## 👨‍💻 Sobre o Fundador
 
-<h2 align="left">Tecnologias:</h2>
+Wander Vilhalva Domingos é formado em Bacharel em Sistemas de Informação e Técnico em Informática pelo IFES Campus Cachoeiro de Itapemirim. Com experiência como DBA SQL Server, Power BI e linguagem de programação Python, está sempre em busca de aprender novas tecnologias e aprimorar suas habilidades.
 
-###
+## 🔧 Tecnologias
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-</div>
+Nossa empresa trabalha principalmente com as seguintes tecnologias:
 
-###
+- Microsoft SQL Server
+- MySQL
+- PostgreSQL
+- Python
+- GitHub
+- Docker
 
-<h2 align="left">Contatos:</h2>
+## 📊 Projetos em Destaque
 
-###
+*Esta seção será atualizada com nossos projetos mais recentes e relevantes.*
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/wandervilhalvadomingos/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/vilhalvadomingos" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCv3-FH7FLH0NrMH872H3lSQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
+## 📞 Entre em Contato
 
-###
+Para mais informações sobre nossos serviços ou para solicitar uma consultoria, entre em contato conosco:
 
-<p align="left">Fique à vontade para explorar meus projetos e repositórios.</p>
+- **LinkedIn:** [Wander Vilhalva Domingos](https://www.linkedin.com/in/wandervilhalvadomingos/)
+- **Instagram:** [@vilhalvadomingos](https://www.instagram.com/vilhalvadomingos)
+- **YouTube:** [Canal WVDomingos](https://www.youtube.com/channel/UCv3-FH7FLH0NrMH872H3lSQ)
 
-###
+## 🤝 Contribuições
+
+Agradecemos o interesse em contribuir com nossos projetos. Para contribuir, por favor:
+
+1. Faça um fork do repositório
+2. Crie uma branch para sua feature (`git checkout -b feature/nova-funcionalidade`)
+3. Faça commit das suas alterações (`git commit -m 'Adiciona nova funcionalidade'`)
+4. Faça push para a branch (`git push origin feature/nova-funcionalidade`)
+5. Abra um Pull Request
+
+---
+
+© 2025 WVDomingos Consultoria em TI. Todos os direitos reservados.
+
+---
