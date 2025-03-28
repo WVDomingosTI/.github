@@ -1,10 +1,10 @@
-# WVDomingos Consultoria em TI
+# WVD Consultoria em TI
 
-Bem-vindo ao repositório principal da WVDomingos Consultoria em TI. Aqui você encontrará informações sobre nossa empresa, projetos e serviços.
+Bem-vindo ao repositório principal da WVD Consultoria em TI. Aqui você encontrará informações sobre nossa empresa, projetos e serviços.
 
 ## 🚀 Sobre Nós
 
-A WVDomingos Consultoria em TI é especializada em soluções de banco de dados, business intelligence e desenvolvimento em Python. Nossa missão é fornecer serviços de alta qualidade que ajudem nossos clientes a alcançar seus objetivos de negócios através da tecnologia.
+A **WVD Consultoria em TI** é especializada em soluções de banco de dados, business intelligence e desenvolvimento em Python. Nossa missão é fornecer serviços de alta qualidade que ajudem nossos clientes a alcançar seus objetivos de negócios através da tecnologia.
 
 ## 🛠️ Nossos Serviços
 
@@ -62,6 +62,6 @@ Agradecemos o interesse em contribuir com nossos projetos. Para contribuir, por 
 
 ---
 
-© 2025 WVDomingos Consultoria em TI. Todos os direitos reservados.
+© 2025 WVD Consultoria em TI. Todos os direitos reservados.
 
 ---
